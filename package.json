@@ -1,0 +1,11 @@
+{
+  "name": "pem-files",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:getmicro/pem-files.git",
+  "author": "Colin Dellow <cldellow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node_extra_ca_certs_mozilla_bundle": "^1.0.4"
+  }
+}
